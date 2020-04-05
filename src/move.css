@@ -1,0 +1,18 @@
+nav {
+  display: flex;
+  align-items: center;
+  min-height: 10vh;
+  justify-content: space-around;
+  background: #c0d4ea;
+  color: black;
+}
+
+.navStyle {
+  color: black;
+  text-decoration: none;
+list-style: none;
+ font-size: 1.2rem;
+}
+.navStyle:hover {
+  color: #0b6fdd;
+}
